@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "WoongheeLee/home",
+    "data-repo": "kier-ai-cs/home",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
