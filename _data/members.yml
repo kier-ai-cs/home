@@ -74,8 +74,8 @@
   email: thekan@kier.re.kr
   external_url:
 
-  - id: leesh
-    name: 이승희
+- id: leesh
+  name: 이승희
   name_en: Seunghee Lee
   position: 선임연구원
   team: data-ai
