@@ -21,6 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/home/books/the_godfather/";
+            },},{id: "members-김상우",
+          title: '김상우',
+          description: "선임연구원 | 전산유체역학",
+          section: "Members",handler: () => {
+              window.location.href = "/home/members/sangwoo-kim/";
             },},{id: "members-이웅희",
           title: '이웅희',
           description: "선임연구원 | 데이터/AI 기반 연구",
