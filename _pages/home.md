@@ -12,19 +12,21 @@ nav_order: 1
 
 한국에너지기술연구원 (Korea Institute of Energy Research, KIER)
 
-<div class="mt-4 mb-4">
-  <img src="/home/assets/img/신년보고회.avif" alt="에너지AI·계산과학실 연구 개요" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid rgba(0,0,0,0.1);">
+<div class="row align-items-center mt-4 mb-4">
+  <div class="col-md-8">
+    <h3>에너지AI·계산과학실은</h3>
+    <p>에너지 분야의 연구 및 개발을 가속화하고, 그 질적 수준을 제고하고자 원내 여러 부서와 공동연구를 수행하고 있습니다. 에너지 연구의 다양한 측면을 아우를 수 있도록 원자단위 전산모사, 공정시스템 및 엔지니어링 최적화, 전산유체역학 (CFD), 그리고 AI·데이터 과학을 비롯한 전문 분야로 세분화되어 있으며, 각기 소재의 반응 메커니즘에서부터 경제적 타당성 분석, 유체역학적 현상 모델링, 그리고 인공지능을 활용한 데이터 분석에 이르는 영역을 담당하고 있습니다. 이처럼 통합적이고 다학제적 접근 방식을 통해 에너지 분야의 연구와 혁신을 한 차원 높은 수준으로 이끌고 있습니다.</p>
+  </div>
+  <div class="col-md-4">
+    <img src="/home/assets/img/신년보고회.avif" alt="에너지AI·계산과학실 연구 개요" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid rgba(0,0,0,0.1);">
+  </div>
 </div>
 
 ---
 
-### 에너지AI·계산과학실은
-
-에너지 분야의 연구 및 개발을 가속화하고, 그 질적 수준을 제고하고자 원내 여러 부서와 공동연구를 수행하고 있습니다. 에너지 연구의 다양한 측면을 아우를 수 있도록 원자단위 전산모사, 공정시스템 및 엔지니어링 최적화, 전산유체역학 (CFD), 그리고 AI·데이터 과학을 비롯한 전문 분야로 세분화되어 있으며, 각기 소재의 반응 메커니즘에서부터 경제적 타당성 분석, 유체역학적 현상 모델링, 그리고 인공지능을 활용한 데이터 분석에 이르는 영역을 담당하고 있습니다. 이처럼 통합적이고 다학제적 접근 방식을 통해 에너지 분야의 연구와 혁신을 한 차원 높은 수준으로 이끌고 있습니다.
-
 ### 대표성과
 
-<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 mt-3">
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-3">
   <div class="col">
     <div class="card h-100 border-0">
       <img src="/home/assets/img/achievements/0303_09_01_new.jpg" class="card-img-top rounded" alt="배터리 수명 예측">
@@ -73,6 +75,9 @@ nav_order: 1
       </div>
     </div>
   </div>
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 g-4 mt-0">
   <div class="col">
     <div class="card h-100 border-0">
       <img src="/home/assets/img/achievements/0303_09_07_new.jpg" class="card-img-top rounded" alt="태양광 품질 제어">
