@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 김상우
-name: sangwoo.kim
+name: sangwoo-kim
 description: 선임연구원 | 전산유체역학
 ---
 
