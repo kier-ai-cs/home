@@ -28,7 +28,7 @@ ninja.data = [{
               window.location.href = "/home/members/sangwoo-kim/";
             },},{id: "members-이웅희",
           title: '이웅희',
-          description: "선임연구원 | 데이터/AI 기반 연구",
+          description: "선임연구원 | AI·데이터 과학",
           section: "Members",handler: () => {
               window.location.href = "/home/members/woongheelee/";
             },},{id: "news-a-simple-inline-announcement",
