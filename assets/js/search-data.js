@@ -26,9 +26,9 @@ ninja.data = [{
           description: "선임연구원 | 전산유체역학",
           section: "Members",handler: () => {
               window.location.href = "/home/members/sangwoo-kim/";
-            },},{id: "members-한글이름",
-          title: '한글이름',
-          description: "직급 | 파트",
+            },},{id: "members-김덕환",
+          title: '김덕환',
+          description: "책임연구원 | AI·데이터 과학",
           section: "Members",handler: () => {
               window.location.href = "/home/members/thekan/";
             },},{id: "members-이웅희",
