@@ -7,7 +7,7 @@ description: 책임연구원 | AI·데이터 과학
 
 <div class="row">
   <div class="col-md-3">
-    <img src="/home/assets/img/members/thekan.jpg" alt="김덕환" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="/assets/img/members/thekan.jpg" alt="김덕환" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
   <div class="col-md-9">
     <h2>김덕환 (Deokhwan Kim)</h2>
@@ -46,3 +46,4 @@ description: 책임연구원 | AI·데이터 과학
 ### Honors and Awards
 
 - 국가과학기술연구회 (NST), 2024년 출연(연) 연구행정혁신 아이디어 공모전 최우수상 
+
