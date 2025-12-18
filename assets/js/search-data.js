@@ -36,6 +36,11 @@ ninja.data = [{
           description: "선임연구원 | AI·데이터 과학",
           section: "Members",handler: () => {
               window.location.href = "/home/members/woongheelee/";
+            },},{id: "members-윤용",
+          title: '윤용',
+          description: "선임연구원",
+          section: "Members",handler: () => {
+              window.location.href = "/home/members/yyoun/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
