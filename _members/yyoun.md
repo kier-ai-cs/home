@@ -2,7 +2,7 @@
 layout: page
 title: 윤용
 name: Yong Youn
-description: 선임연구원 
+description: 선임연구원
 ---
 
 <div class="row">
@@ -36,9 +36,11 @@ description: 선임연구원
 ---
 
 ### Publications
+
 - ....
 
 ---
+
 ### Honors and Awards
 
 - ....
