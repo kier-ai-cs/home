@@ -7,7 +7,7 @@ description: 책임연구원 | AI·데이터 과학
 
 <div class="row">
   <div class="col-md-3">
-    <img src="/assets/img/members/thekan.jpg"
+    <img src="/home/assets/img/members/thekan.jpg"
      class="rounded"
      style="
        width: 250px;
