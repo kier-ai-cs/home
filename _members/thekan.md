@@ -7,14 +7,9 @@ description: 책임연구원 | AI·데이터 과학
 
 <div class="row">
   <div class="col-md-3">
-    <img src="/home/assets/img/members/thekan.jpg"
-     class="rounded"
-     style="
-       width: 250px;
-       height: 260px;
-       object-fit: cover;
-       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-     ">
+    <img src="/home/assets/img/members/thekan.jpg" alt="김덕환"
+     class="img-fluid rounded"
+     style="object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
   <div class="col-md-9">
     <h2>김덕환 (Deokhwan Kim)</h2>
