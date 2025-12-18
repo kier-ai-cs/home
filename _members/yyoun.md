@@ -10,8 +10,8 @@ description: 선임연구원
     <img src="/assets/img/members/yyoun.jpg"
      class="rounded"
      style="
-       width: 591px;
-       height: 827px;
+       width: 295px;
+       height: 413px;
        object-fit: cover;
        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
      ">
