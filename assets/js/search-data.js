@@ -38,7 +38,7 @@ ninja.data = [{
               window.location.href = "/home/members/woongheelee/";
             },},{id: "members-윤용",
           title: '윤용',
-          description: "선임연구원",
+          description: "선임연구원 | 원자단위계산",
           section: "Members",handler: () => {
               window.location.href = "/home/members/yyoun/";
             },},{id: "news-a-simple-inline-announcement",
