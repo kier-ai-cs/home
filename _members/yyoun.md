@@ -47,7 +47,7 @@ description: 선임연구원 | 원자단위계산
 
 ### Publications
 
-- T. Kim, P. Kang, E. Eom, S. -K. Lee, J. -C. Kim, S. Kweon, M. B. Park, **Y. Youn\***, K. Cho*, and C. Jo*, "Opposite trends in acetylene/ethylene selectivity change after organic functionalization of Na+-and Cs+-MOR zeolites", _Separation and Purification Technology_ **360**, 131226 (2025) (\*co-corresponding author)
+- T. Kim, P. Kang, E. Eom, S. -K. Lee, J. -C. Kim, S. Kweon, M. B. Park, **Y. Youn\***, K. Cho\*, and C. Jo\*, "Opposite trends in acetylene/ethylene selectivity change after organic functionalization of Na+-and Cs+-MOR zeolites", _Separation and Purification Technology_ **360**, 131226 (2025) (\*co-corresponding author)
 - A. Hussain\*, **Y. Youn\***, B. -S. Kwon, T. -H. Lim, S. -J. Park, J. -E. Hong, D. W. Joh, R. -H. Song, H. -S. Kim, "Suppressing Cation Interdiffusion at CeO2/ZrO2 Heterointerfaces via Dopant Segregation", _ACS Applied Materials & Interfaces_ **17**, 9407 (2025) (\*co-first author)
 - **Y. Youn**, S. Yoon, T. W. Kim, S. K. Hong, and K. Cho, "Significant improvement of adsorption thermal energy storage of zeolite by simple cation exchange, inducing strong polarization of water", _Journal of Energy Storage_ **89**, 111805 (2024)
 - **Y. Youn\***, T. W. Kim, K. Cho\*, and S. K. Hong\*, "Investigation on the Initial Stage of the Dehydration Process in Mg(OH)2 by Density Functional Theory Calculations", _ACS Applied Materials & Interfaces_ **16**, 23122 (2024) (\*co-corresponding author)
