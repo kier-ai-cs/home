@@ -47,35 +47,35 @@ description: 선임연구원 | 원자단위계산
 
 ### Publications
 
-- Opposite trends in acetylene/ethylene selectivity change after organic functionalization of Na+-and Cs+-MOR zeolites
-- Suppressing Cation Interdiffusion at CeO2/ZrO2 Heterointerfaces via Dopant Segregation
-- Significant improvement of adsorption thermal energy storage of zeolite by simple cation exchange, inducing strong polarization of water
-- Investigation on the Initial Stage of the Dehydration Process in Mg (OH) 2 by Density Functional Theory Calculations
-- Microwave-assisted sintering of a hexagonal perovskite-related protonic ceramic Ba7Nb4MoO20
-- Anisotropic proton migration in hexagonal perovskite-related Ba5Er2Al2ZrO13 oxide
-- A. Ullah*, B. Hussain*, Y. Youn*, H. -B. Bae, J. -E. Hong, D. W. Joh, S. -B. Lee, R. -H. Song, T. W. Kim, T. -H. Lim, and H. -S. Kim, “A multicomponent equimolar proton-conducting quadruple hexagonal perovskite-related oxide system”, Dalton Transaction 52, 1885 (2023. 01) (*co-first author)
-- T. Mandai, Y. Youn, and Y. Tateyama, “Remarkable electrochemical and ion-transport characteristics of magnesium-fluorinated alkoxyaluminate–diglyme electrolytes for magnesium batteries”, Materials Advances 2, 6283 (2021. 07)
-- Y. Youn, B. Gao, A. Kamiyama, K. Kubota, S. Komaba, and Y. Tateyama, “Nanometer-size Na cluster formation in micropore of hard carbon as origin of higher-capacity Na-ion battery”, npj Computational Materials 7, 48 (2021. 04) 
-- A. Kamiyama, K. Kubota, D. Igarashi, Y. Youn, Y. Tateyama, H. Ando, K. Gotoh, and S. Komaba, “MgO‐Template Synthesis of Extremely High Capacity Hard Carbon for Na‐Ion Battery”, Angewandte Chemie International Edition 60, 5114 (2021. 03) 
-- C. Hong, J. M. Choi, W. Jeong, S. Kang, S. Ju, K. Lee, J. Jung, Y. Youn, and S. Han, “Training machine-learning potentials for crystal structure prediction using disordered structures”, Physical Review B 102, 224104 (2020. 12) 
-- S. Kim, M. Lee, C. Hong, Y. Yoon, H. An, D. Lee, W. Jeong, D. Yoo, Y. Kang, Y. Youn, and S. Han, “A band-gap database for semiconducting inorganic materials calculated with hybrid functional”, Scientific Data 7, 387 (2020. 11) (*co-corresponding author)
-- Y. Youn, M. Lee, C. Hong, D. Kim, S. Kim, J. Jung, K. Yim, and S. Han, “AMP2: a fully automated program for ab initio calculations of crystalline materials”, Computer Physics Communications 256, 107450 (2020.11)
-- M. Lee*, Y. Youn*, and S. Han, “Origin of p-type conduction in amorphous CuI: a first-principles investigation”, Physica Status Solidi B: Basic Solid State Physics, 2000218 (2020.09) (*co-first author)
-- S. Yim, T. Kim, X. Hongwei, B. Yu, Y. Youn, S. Han, and J. K. Jeong, “Lanthanum doping enabling high drain current modulation in a p-type tin monoxide thin-film transistor”, ACS Applied Materials & Interfaces 11, 47025 (2019. 12)
-- T. Kim, B. Yoo, Y. Youn, M. Lee, A. Song, K. -B. Chung, S. Han, and J. K. Jeong, “Material design of new p-type tin oxyselenide semiconductor through valence band engineering and its device application”, ACS Applied Materials & Interfaces 11, 40214 (2019. 10)
-- Y. Youn*, M. Lee*, D. Kim, J. K. Jeong, Y. Kang, and S. Han, “Large-scale computational identification of p-type oxide semiconductors by hierarchical screening”, Chemistry of Materials 31, 5475 (2019.08) (*co-first author)
-- Y. Kang, Y. Youn, S. Han, J. Park, and C. Oh, “Computational screening of indirect gap semiconductors for potential photovoltaic absorbers”, Chemistry of Materials 31, 4072 (2019.06)
-- D. Yoo, H. Song, Y. Youn, S. H. Jeon, Y. Cho, and S. Han, “Molecular dynamics study on interface morphology of vapor-deposited amorphous organic thin films”, Physical Chemistry Chemical Physics 21, 1484 (2019)
-- M. Lee, Y. Youn, K. Yim, and S. Han, “High-throughput ab initio calculations on dielectric constant and band gap of non-oxide dielectrics”, Scientific reports 8, 14794 (2018. 10)
-- K. Yim*, Y. Youn*, M. Lee, D. Yoo, J. Lee, S. H. Cho, and S. Han, "Computational discovery of p-type transparent oxide semiconductors using hydrogen descriptor", npj Computational Materials 4, 17 (2018) (*co-first author)
-- S. Muhammad, J.-Y. Cho, Y. Youn, S. Han, M. Kim, S.-H. Bae, and C. Park, "Effect of annealing temperature on the phase transition, band gap and thermoelectric properties of Cu2SnSe3", Journal of Materials Chemistry C 6, 1780 (2018)
-- Y. Youn*, D. Yoo*, H. Song, Y. Kang, K. Kim, S. H. Jeon, Y. Cho, K. Chae, and S. Han, "All-atom simulation of molecular orientation in vapor-deposited organic light-emitting diodes", Journal of Materials Chemistry C 6, 1015 (2018) (*co-first author)
-- K. Lee, Y. Youn, and S. Han, "Identification of ground-state spin ordering in antiferromagnetic transition metal oxides using the Ising model and a genetic algorithm", Science and Technology of Advanced Materials 18, 246 (2017)
-- B. Kim*, Y. Youn*, Y.-S. Park, D. N. Moon, K. Kang, S. Han, and J. S. Lee, "Impurity-driven formation of branched pores in porous anodic alumina", Scripta Materialia 122, 102 (2016) (*co-first author)
-- Y. Youn and S. Han, "Investigation of field effects in a solid-state nanopore transistor", Physical Chemistry Chemical Physics 17, 27806 (2015)
-- K. Yim, Y. Youn, J. Lee, K. Lee, H.-H. Nahm, J. Yoo, C. Lee, C. S. Hwang, and S. Han, "Novel high-κ dielectrics for next-generation electronic devices screened by automated ab initio calculations", NPG Asia Materials 7, e190 (2015)
-- Y. Youn, Y. Kang, and S. Han, "An efficient method to generate amorphous structures based on local geometry", Computational Materials Science 95, 256 (2014) 
-- E. Cho, Y. Youn, and S. Han, "Enhanced amorphous stability of carbon-doped Ge2Sb2Te5: Ab initio investigation", Applied Physics Letters 99, 183501 (2011)
+- T. Kim, P. Kang, E. Eom, S. -K. Lee, J. -C. Kim, S. Kweon, M. B. Park, **Y. Youn***, K. Cho*, and C. Jo*, "Opposite trends in acetylene/ethylene selectivity change after organic functionalization of Na+-and Cs+-MOR zeolites", Separation and Purification Technology 360, 131226 (2025) (*co-corresponding author)
+- A. Hussain*, **Y. Youn***, B. -S. Kwon, T. -H. Lim, S. -J. Park, J. -E. Hong, D. W. Joh, R. -H. Song, H. -S. Kim, "Suppressing Cation Interdiffusion at CeO2/ZrO2 Heterointerfaces via Dopant Segregation", ACS Applied Materials & Interfaces 17, 9407 (2025) (*co-first author)
+- **Y. Youn**, S. Yoon, T. W. Kim, S. K. Hong, and K. Cho, "Significant improvement of adsorption thermal energy storage of zeolite by simple cation exchange, inducing strong polarization of water", Journal of Energy Storage 89, 111805 (2024)
+- **Y. Youn***, T. W. Kim, K. Cho*, and S. K. Hong*, "Investigation on the Initial Stage of the Dehydration Process in Mg(OH)2 by Density Functional Theory Calculations", ACS Applied Materials & Interfaces 16, 23122 (2024) (*co-corresponding author)
+- Y. Choi, H. W. Kim, **Y. Youn**, P. J. Chun, H. S. Kim, J. H. Yu, S. D. Kim, and T. W. Kim, "Microwave-assisted sintering of a hexagonal perovskite-related protonic ceramic Ba7Nb4MoO20", Journal of the European Ceramic Society 44, 116702 (2024)
+- **Y. Youn**, B. Hussain, A. Ullah, I. J. Hwang, J. Shin, J. -E. Hong, D. W. Joh, S. -B. Lee, R. -H. Song, S. -J. Park, T. W. Kim, Y. Choi, T. -H. Lim, H. -S. Kim, "Anisotropic proton migration in hexagonal perovskite-related Ba5Er2Al2ZrO13 oxide", Chemistry of Materials 35, 9493 (2023) (*co-first author)
+- A. Ullah*, B. Hussain*, **Y. Youn***, H. -B. Bae, J. -E. Hong, D. W. Joh, S. -B. Lee, R. -H. Song, T. W. Kim, T. -H. Lim, and H. -S. Kim, “A multicomponent equimolar proton-conducting quadruple hexagonal perovskite-related oxide system”, Dalton Transaction 52, 1885 (2023. 01) (*co-first author)
+- T. Mandai, **Y. Youn**, and Y. Tateyama, “Remarkable electrochemical and ion-transport characteristics of magnesium-fluorinated alkoxyaluminate–diglyme electrolytes for magnesium batteries”, Materials Advances 2, 6283 (2021. 07)
+- **Y. Youn**, B. Gao, A. Kamiyama, K. Kubota, S. Komaba, and Y. Tateyama, “Nanometer-size Na cluster formation in micropore of hard carbon as origin of higher-capacity Na-ion battery”, npj Computational Materials 7, 48 (2021. 04) 
+- A. Kamiyama, K. Kubota, D. Igarashi, **Y. Youn**, Y. Tateyama, H. Ando, K. Gotoh, and S. Komaba, “MgO‐Template Synthesis of Extremely High Capacity Hard Carbon for Na‐Ion Battery”, Angewandte Chemie International Edition 60, 5114 (2021. 03) 
+- C. Hong, J. M. Choi, W. Jeong, S. Kang, S. Ju, K. Lee, J. Jung, **Y. Youn**, and S. Han, “Training machine-learning potentials for crystal structure prediction using disordered structures”, Physical Review B 102, 224104 (2020. 12) 
+- S. Kim, M. Lee, C. Hong, Y. Yoon, H. An, D. Lee, W. Jeong, D. Yoo, Y. Kang, **Y. Youn**, and S. Han, “A band-gap database for semiconducting inorganic materials calculated with hybrid functional”, Scientific Data 7, 387 (2020. 11) (*co-corresponding author)
+- **Y. Youn**, M. Lee, C. Hong, D. Kim, S. Kim, J. Jung, K. Yim, and S. Han, “AMP2: a fully automated program for ab initio calculations of crystalline materials”, Computer Physics Communications 256, 107450 (2020.11)
+- M. Lee*, **Y. Youn***, and S. Han, “Origin of p-type conduction in amorphous CuI: a first-principles investigation”, Physica Status Solidi B: Basic Solid State Physics, 2000218 (2020.09) (*co-first author)
+- S. Yim, T. Kim, X. Hongwei, B. Yu, **Y. Youn**, S. Han, and J. K. Jeong, “Lanthanum doping enabling high drain current modulation in a p-type tin monoxide thin-film transistor”, ACS Applied Materials & Interfaces 11, 47025 (2019. 12)
+- T. Kim, B. Yoo, **Y. Youn**, M. Lee, A. Song, K. -B. Chung, S. Han, and J. K. Jeong, “Material design of new p-type tin oxyselenide semiconductor through valence band engineering and its device application”, ACS Applied Materials & Interfaces 11, 40214 (2019. 10)
+- **Y. Youn***, M. Lee*, D. Kim, J. K. Jeong, Y. Kang, and S. Han, “Large-scale computational identification of p-type oxide semiconductors by hierarchical screening”, Chemistry of Materials 31, 5475 (2019.08) (*co-first author)
+- Y. Kang, **Y. Youn**, S. Han, J. Park, and C. Oh, “Computational screening of indirect gap semiconductors for potential photovoltaic absorbers”, Chemistry of Materials 31, 4072 (2019.06)
+- D. Yoo, H. Song, **Y. Youn**, S. H. Jeon, Y. Cho, and S. Han, “Molecular dynamics study on interface morphology of vapor-deposited amorphous organic thin films”, Physical Chemistry Chemical Physics 21, 1484 (2019)
+- M. Lee, **Y. Youn**, K. Yim, and S. Han, “High-throughput ab initio calculations on dielectric constant and band gap of non-oxide dielectrics”, Scientific reports 8, 14794 (2018. 10)
+- K. Yim*, **Y. Youn***, M. Lee, D. Yoo, J. Lee, S. H. Cho, and S. Han, "Computational discovery of p-type transparent oxide semiconductors using hydrogen descriptor", npj Computational Materials 4, 17 (2018) (*co-first author)
+- S. Muhammad, J.-Y. Cho, **Y. Youn**, S. Han, M. Kim, S.-H. Bae, and C. Park, "Effect of annealing temperature on the phase transition, band gap and thermoelectric properties of Cu2SnSe3", Journal of Materials Chemistry C 6, 1780 (2018)
+- **Y. Youn***, D. Yoo*, H. Song, Y. Kang, K. Kim, S. H. Jeon, Y. Cho, K. Chae, and S. Han, "All-atom simulation of molecular orientation in vapor-deposited organic light-emitting diodes", Journal of Materials Chemistry C 6, 1015 (2018) (*co-first author)
+- K. Lee, **Y. Youn**, and S. Han, "Identification of ground-state spin ordering in antiferromagnetic transition metal oxides using the Ising model and a genetic algorithm", Science and Technology of Advanced Materials 18, 246 (2017)
+- B. Kim*, **Y. Youn***, Y.-S. Park, D. N. Moon, K. Kang, S. Han, and J. S. Lee, "Impurity-driven formation of branched pores in porous anodic alumina", Scripta Materialia 122, 102 (2016) (*co-first author)
+- **Y. Youn** and S. Han, "Investigation of field effects in a solid-state nanopore transistor", Physical Chemistry Chemical Physics 17, 27806 (2015)
+- K. Yim, **Y. Youn**, J. Lee, K. Lee, H.-H. Nahm, J. Yoo, C. Lee, C. S. Hwang, and S. Han, "Novel high-κ dielectrics for next-generation electronic devices screened by automated ab initio calculations", NPG Asia Materials 7, e190 (2015)
+- **Y. Youn**, Y. Kang, and S. Han, "An efficient method to generate amorphous structures based on local geometry", Computational Materials Science 95, 256 (2014) 
+- E. Cho, **Y. Youn**, and S. Han, "Enhanced amorphous stability of carbon-doped Ge2Sb2Te5: Ab initio investigation", Applied Physics Letters 99, 183501 (2011)
 
 ---
 
