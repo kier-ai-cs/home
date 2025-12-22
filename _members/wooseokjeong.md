@@ -7,7 +7,7 @@ description: 선임연구원 | 원자단위 전산모사
 
 <div class="row">
   <div class="col-md-3">
-    <img src="/home/assets/img/members/그림파일명.jpg" alt="이름" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="/home/assets/img/members/wooseokjeong.png" alt="이름" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
   <div class="col-md-9">
     <h2>정우석 (WooSeok Jeong)</h2>
