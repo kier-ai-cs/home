@@ -31,16 +31,16 @@ ninja.data = [{
           description: "책임연구원 | AI·데이터 과학",
           section: "Members",handler: () => {
               window.location.href = "/home/members/thekan/";
+            },},{id: "members-정우석",
+          title: '정우석',
+          description: "선임연구원 | 원자단위 전산모사",
+          section: "Members",handler: () => {
+              window.location.href = "/home/members/wjeong/";
             },},{id: "members-이웅희",
           title: '이웅희',
           description: "선임연구원 | AI·데이터 과학",
           section: "Members",handler: () => {
               window.location.href = "/home/members/woongheelee/";
-            },},{id: "members-정우석",
-          title: '정우석',
-          description: "선임연구원 | 원자단위 전산모사",
-          section: "Members",handler: () => {
-              window.location.href = "/home/members/wooseokjeong/";
             },},{id: "members-윤용",
           title: '윤용',
           description: "선임연구원 | 원자단위계산",
