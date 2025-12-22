@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 정우석
-name: WooSeok Jeong 
+name: WooSeok Jeong
 description: 선임연구원 | 원자단위 전산모사
 ---
 
@@ -24,6 +24,7 @@ description: 선임연구원 | 원자단위 전산모사
 ---
 
 ### 관심 연구분야
+
 - Machine learning potentials for molecular simulations
 - Large-scale computational screening/modeling of porous materials (zeolites, MOFs, COFs, ...)
 - Multi-level atomistic simulation approaches to simulate adsorption and chemical reactions
@@ -34,21 +35,24 @@ description: 선임연구원 | 원자단위 전산모사
 ### 연구분야
 
 **제일원리 계산 및 분자 시뮬레이션을 통한 다공성 물질 시뮬레이션**
-- 제올라이트, 금속-유기물 구조체 (Metal-Organic Frameworks, MOFs)를 비롯한 다양한 결정질 다공성 물질에서 가스저장 (수소, 메탄), 분리/추출 (이산화탄소, 물)을 위한 물질 선별 및 가스 흡착메커니즘 분석 
+
+- 제올라이트, 금속-유기물 구조체 (Metal-Organic Frameworks, MOFs)를 비롯한 다양한 결정질 다공성 물질에서 가스저장 (수소, 메탄), 분리/추출 (이산화탄소, 물)을 위한 물질 선별 및 가스 흡착메커니즘 분석
 
 **다양한 레벨의 양자화학 계산방법론을 활용한 촉매 연구 및 대규모 선별분석 연구**
-- 분자계 물질에서 Conformer search 및 Interaction energy 계산을 Semi-empirical method부터 DFT, MP2, CCSD 계산방법론을 활용해 Multi-stage로 수행 
+
+- 분자계 물질에서 Conformer search 및 Interaction energy 계산을 Semi-empirical method부터 DFT, MP2, CCSD 계산방법론을 활용해 Multi-stage로 수행
 
 **양자화학 계산법과 머신러닝 모델 결합을 통한 계산방법론 개발**
-- DFT 계산법 보다 상위 계산방법론인 다전자배치 계산법과 관련해 활성영역 (Active space) 자동화 프로토콜 개발 및 유기분자의 들뜬 상태 계산을 위한 Active Learning Configuration Interaction 방법론 개발 
-- 다공성 물질에서 가스 흡착을 보다 정밀하게 모사하면서도, 실험과 비교할 수 있는 물성치 계산을 위해 멀티레벨 하이브리드 머신러닝 포텐셜 개발 중 
+
+- DFT 계산법 보다 상위 계산방법론인 다전자배치 계산법과 관련해 활성영역 (Active space) 자동화 프로토콜 개발 및 유기분자의 들뜬 상태 계산을 위한 Active Learning Configuration Interaction 방법론 개발
+- 다공성 물질에서 가스 흡착을 보다 정밀하게 모사하면서도, 실험과 비교할 수 있는 물성치 계산을 위해 멀티레벨 하이브리드 머신러닝 포텐셜 개발 중
 
 ---
 
 ### 참여 과제 이력
 
 - 이산화탄소와 수소로부터 지속가능항공유 (e-SAF) 생산기술 개발 (윤민혜, 2023-현재)
-- 탄소중립 달성을 위한 건물/가정용 열원 시스템의 전기화 기술 (고밀도 Thermal ESS 기술)  (홍성국, 2023-현재)
+- 탄소중립 달성을 위한 건물/가정용 열원 시스템의 전기화 기술 (고밀도 Thermal ESS 기술) (홍성국, 2023-현재)
 - 합성가스로부터 고순도 선형알파올레핀 생산 기술개발 (천동현, 2023-현재)
 - 불화가스 분해용 장수명 고효율 촉매 분해 공정 개발 (조동우, 2023-현재)
 
