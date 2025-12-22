@@ -51,10 +51,14 @@ description: 선임연구원 | 원자단위 전산모사
 
 ### 참여 과제 이력
 
+- 포집 이산화탄소와 수전해 수소로부터 고에너지밀도(≥ 40 MJ/kg) 고상 합성원유 생산을 위한 CCU 통합공정 개발 (윤민혜, 2025-현재)
+- 인공지능 및 데이터를 활용한 수전해용 프로톤전도성 소재의 HUB 구축 (홍종은, 2024-현재)
 - 이산화탄소와 수소로부터 지속가능항공유 (e-SAF) 생산기술 개발 (윤민혜, 2023-현재)
 - 탄소중립 달성을 위한 건물/가정용 열원 시스템의 전기화 기술 (고밀도 Thermal ESS 기술) (홍성국, 2023-현재)
-- 합성가스로부터 고순도 선형알파올레핀 생산 기술개발 (천동현, 2023-현재)
-- 불화가스 분해용 장수명 고효율 촉매 분해 공정 개발 (조동우, 2023-현재)
+- 매립지 바이오가스 활용 친환경 리뉴어블 납사 생산기술 개발 (천동현, 2024)
+- 폐플라스틱으로부터 저가형 MOF 소재 제조 기술 개발 (이유리, 2024)
+- 불화가스 분해용 장수명 고효율 촉매 분해 공정 개발 (조동우, 2023-2024)
+- 합성가스로부터 고순도 선형알파올레핀 생산 기술개발 (천동현, 2023)
 
 ---
 
@@ -76,15 +80,15 @@ Advancement of Actinide Metal-Organic Framework Chemistry via Synthesis of Pu-Ui
 
 Automation of Active Space Selection for Multireference Methods via Machine Learning on Chemical Bond Dissociation. **WooSeok Jeong**, Samuel J. Stoneburner, Daniel King, Ruye Li, Andrew Walker, Roland Lindh, and Laura Gagliardi. _Journal of Chemical Theory and Computation_, 2020, 16 (4), 2389–2399.
 
-Metal-Organic Frameworks with Metal-Catecholates for O2/N2 Separation. Hakan Demir, Samuel J. Stoneburner, **WooSeok Jeong**, Debmalya Ray, Xuan Zhang, Omar K. Farha, Cristopher J. Cramer, J. Ilja Siepmann, and Laura Gagliardi. _The Journal of Physical Chemistry C_, 2019, 123 (20), 12935–12946.
+Metal-Organic Frameworks with Metal-Catecholates for O<sub>2</sub>/N<sub>2</sub> Separation. Hakan Demir, Samuel J. Stoneburner, **WooSeok Jeong**, Debmalya Ray, Xuan Zhang, Omar K. Farha, Cristopher J. Cramer, J. Ilja Siepmann, and Laura Gagliardi. _The Journal of Physical Chemistry C_, 2019, 123 (20), 12935–12946.
 
 Modeling Adsorption Properties of Structurally Deformed Metal-Organic Frameworks Using Structure-Property Map. **WooSeok Jeong**, Dae-Woon Lim, Sungjune Kim, Aadesh Harale, Minyoung Yoon, Myunghyun Paik Suh and Jihan Kim. _Proceedings of the National Academy of Sciences of the United States of America_, 2017, 114 (30), 7923–7928.
 
-Understanding the Mechanisms of CO2 Adsorption Enhancement in Pure Silica Zeolites under Humid Conditions. **WooSeok Jeong** and Jihan Kim. _The Journal of Physical Chemistry C_, 2016, 120 (41), 23500–23510.
+Understanding the Mechanisms of CO<sub>2</sub> Adsorption Enhancement in Pure Silica Zeolites under Humid Conditions. **WooSeok Jeong** and Jihan Kim. _The Journal of Physical Chemistry C_, 2016, 120 (41), 23500–23510.
 
-Performance of Supercritical Brayton Cycle Using CO2-Based Binary Mixture at Varying Critical Points for SFR Applications. **Woo Seok Jeong** and Yong Hoon Jeong. _Nuclear Engineering and Design_, 2013, 262, 12–20.
+Performance of Supercritical Brayton Cycle Using CO<sub>2</sub>-Based Binary Mixture at Varying Critical Points for SFR Applications. **Woo Seok Jeong** and Yong Hoon Jeong. _Nuclear Engineering and Design_, 2013, 262, 12–20.
 
-Potential Improvements of Supercritical Recompression CO2 Brayton Cycle by Mixing Other Gases for Power Conversion System of a SFR. **Woo Seok Jeong**, Jeong Ik Lee, and Yong Hoon Jeong. _Nuclear Engineering and Design_, 2011, 241 (6), 2128–2137.
+Potential Improvements of Supercritical Recompression CO<sub>2</sub> Brayton Cycle by Mixing Other Gases for Power Conversion System of a SFR. **Woo Seok Jeong**, Jeong Ik Lee, and Yong Hoon Jeong. _Nuclear Engineering and Design_, 2011, 241 (6), 2128–2137.
 
 ---
 
