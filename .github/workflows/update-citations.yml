@@ -1,10 +1,10 @@
 name: Update Google Scholar Citations
 
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+  # Automatic schedule disabled - run manually when needed via workflow_dispatch
+  # To enable automatic updates, uncomment the schedule section below
+  # schedule:
+  #   - cron: "0 0 * * 1" # Monday
   workflow_dispatch:
 
 permissions:
