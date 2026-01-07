@@ -1,16 +1,16 @@
 ---
 layout: page
-title: <strong><u>이웅희
-</u></strong>name: woongheelee
+title: 이웅희
+name: woongheelee
 description: 선임연구원 | AI·데이터 과학
 ---
 
 <div class="row">
   <div class="col-md-3">
-    <img src="/home/assets/img/members/<strong><u>이웅희_edited.</u></strong>avif" alt="<strong><u>이웅희"</u></strong> class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="/home/assets/img/members/<strong><u>이웅희_edited.</u></strong>avif" alt="이웅희" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
   <div class="col-md-9">
-    <h2><strong><u>이웅희 </u></strong>(Woonghee Lee)</h2>
+    <h2>이웅희 (Woonghee Lee)</h2>
     <p><strong>선임연구원</strong> · AI·데이터 과학</p>
     <p>
       <!-- <i class="fas fa-building"></i> 한국에너지기술연구원 에너지AI·계산과학실<br>
