@@ -7,7 +7,7 @@ description: 선임연구원 | AI·데이터 과학
 
 <div class="row">
   <div class="col-md-3">
-    <img src="/home/assets/img/members/<strong><u>이웅희_edited.</u></strong>avif" alt="이웅희" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="/home/assets/img/members/이웅희_edited.avif" alt="이웅희" class="img-fluid rounded" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
   <div class="col-md-9">
     <h2>이웅희 (Woonghee Lee)</h2>
