@@ -17,6 +17,8 @@ description: 책임연구원 | 원자단위 소재전산모사
       <i class="fas fa-map-marker-alt"></i> Gajeong-ro 152, Yuseong-gu, Daejeon 34129<br> -->
       <i class="fas fa-envelope"></i> khyim@kier.re.kr<br>
       <i class="fas fa-phone"></i> 042-860-3081
+      <i class="fas fa-home"></i><a href="https://sites.google.com/view/craem-kier/">Homepage</a>
+      
     </p>
   </div>
 </div>
@@ -44,7 +46,7 @@ description: 책임연구원 | 원자단위 소재전산모사
 - DFT 기반 고속대량선별 연구를 통한 태양광 흡수층 신소재 탐색
 - 2차원 이종다층 소재 선별을 통한 이차전지 전극용 최적 소재 설계
 
-- 그 외 원자단위 거동 및 물성 예측을 기반으로 한 소재 개발 연구...
+---
 
 ### 참여 과제 이력 (2025년 수행과제)
 
