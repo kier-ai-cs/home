@@ -61,9 +61,7 @@ description: 책임연구원 | 원자단위 소재전산모사
 
 ---
 
-### Publications ('25)
-
-<a href="https://sites.google.com/view/craem-kier/%ED%99%88/publications" target="_blank">게재 논문 전체 목록 바로가기</a>
+### Publications ('25 게재)
 
 Jung, W.\*; Lim, S.; Youn, Y; Lee, J; Amare, A. M.; Ali, S. S. F.; Jeong, I.; Shin, D.; Park, J. H.; Kim, K; Yim, K.†; A Novel Strategy for Discovering Inorganic Solar-Cell Absorbers: Leveraging Octahedral Features in ABX3 Structures. J. Mater. Chem. A 2025, 13, 9680-9693. https://doi.org/10.1039/D4TA07938H (Cover)
 
@@ -80,6 +78,8 @@ Nguyen, V. P.\*; Jung, W.; Lim, S.; Yim, K.; Kim, D.; Lee, S.-M.†; Heterostruc
 Dung, D. T._; Lam, D. V._; Jung, W.; Yim, K.; Lee, S.-M.†; Maya Blue-Inspired Hybrid Coating for Robust and Superhydrophilic Solar Evaporators Using Commercial Black Acrylic Paint. Adv. Funct. Mater. 2025, e18312. https://doi.org/10.1002/adfm.202518312
 
 Nguyen, V. P.\*; Park, M.; Byeon, Y.-W.; Lim, S.; Yim, K.; Oh, M.; Hyun, S.; Jeon , E.†; Lee, S.-M.†; Ultrathin Yet Effective 90-nm ZnF2 Layer for Stabilizing Zinc-Metal Anodes. ACS Energy Lett. 2025, 10, 11, 5503-5512. https://pubs.acs.org/doi/10.1021/acsenergylett.5c02565
+
+<a href="https://sites.google.com/view/craem-kier/%ED%99%88/publications" target="_blank">게재 논문 전체 목록 바로가기</a>
 
 ---
 
