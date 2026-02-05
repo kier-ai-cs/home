@@ -44,7 +44,7 @@ description: 책임연구원 | 원자단위 소재전산모사
 - DFT 기반 고속대량선별 연구를 통한 태양광 흡수층 신소재 탐색
 - 2차원 이종다층 소재 선별을 통한 이차전지 전극용 최적 소재 설계
 
- - 그 외 원자단위 거동 및 물성 예측을 기반으로 한 소재 개발 연구...
+- 그 외 원자단위 거동 및 물성 예측을 기반으로 한 소재 개발 연구...
 
 ### 참여 과제 이력 (2025년 수행과제)
 
@@ -62,21 +62,21 @@ description: 책임연구원 | 원자단위 소재전산모사
 
 ### Publications (2025)
 
-Jung, W.*; Lim, S.; Youn, Y; Lee, J; Amare, A. M.; Ali, S. S. F.; Jeong, I.; Shin, D.; Park, J. H.; Kim, K; Yim, K.†; A Novel Strategy for Discovering Inorganic Solar-Cell Absorbers: Leveraging Octahedral Features in ABX3 Structures. J. Mater. Chem. A 2025, 13, 9680-9693. https://doi.org/10.1039/D4TA07938H (Cover)
+Jung, W.\*; Lim, S.; Youn, Y; Lee, J; Amare, A. M.; Ali, S. S. F.; Jeong, I.; Shin, D.; Park, J. H.; Kim, K; Yim, K.†; A Novel Strategy for Discovering Inorganic Solar-Cell Absorbers: Leveraging Octahedral Features in ABX3 Structures. J. Mater. Chem. A 2025, 13, 9680-9693. https://doi.org/10.1039/D4TA07938H (Cover)
 
-Lim, S.*; Park, D. H.; Joo, B. J.; Lee, Y. U.†; Yim, K.† Exploring Uncharted Multiband Hyperbolic Dispersion in Conjugated Polymers: A First-Principles Study. Adv. Photon. 2025, 7(3), 036001. https://doi.org/10.1117/1.AP.7.3.036001
+Lim, S.\*; Park, D. H.; Joo, B. J.; Lee, Y. U.†; Yim, K.† Exploring Uncharted Multiband Hyperbolic Dispersion in Conjugated Polymers: A First-Principles Study. Adv. Photon. 2025, 7(3), 036001. https://doi.org/10.1117/1.AP.7.3.036001
 
-Lee, J.*; Lee, M.*; Kim, B.; Jung, H.; Yim, K.; Ryu, M.; Doo, G. S.; Choi, J.-H.; Jung, K.-N.†; Oh, M.†; Lee, J.†; Tailored Polymer-Based SEI via iCVD for Stable Zinc Metal Anodes in Aqueous Batteries through Modulation of Hydrophilicity and Elasticity to Inhibit Hydrogen Evolution Reactions. Adv. Funct. Mater. 2025, e07730. https://doi.org/10.1002/adfm.202507730
+Lee, J._; Lee, M._; Kim, B.; Jung, H.; Yim, K.; Ryu, M.; Doo, G. S.; Choi, J.-H.; Jung, K.-N.†; Oh, M.†; Lee, J.†; Tailored Polymer-Based SEI via iCVD for Stable Zinc Metal Anodes in Aqueous Batteries through Modulation of Hydrophilicity and Elasticity to Inhibit Hydrogen Evolution Reactions. Adv. Funct. Mater. 2025, e07730. https://doi.org/10.1002/adfm.202507730
 
-Jang, K. Y.*;  Lee, Y. A.*; Lim, S.; Park, S.; Jung, K. -N.; Lee, J.; Ryu, M. H.; An, B. -S.; Lee, G. -W.; Yoo, D.-J.; Yim, K.†; Yoo, C.-Y.†; Yoon, H.†; Enhancing Lithium-Ion Battery Kinetics and Stability Leveraging Hybrid 1T/2H MoS2–Graphene Heterostructures. Chem. Eng. J. 2025, 520, 165803. https://doi.org/10.1016/j.cej.2025.165803
+Jang, K. Y._; Lee, Y. A._; Lim, S.; Park, S.; Jung, K. -N.; Lee, J.; Ryu, M. H.; An, B. -S.; Lee, G. -W.; Yoo, D.-J.; Yim, K.†; Yoo, C.-Y.†; Yoon, H.†; Enhancing Lithium-Ion Battery Kinetics and Stability Leveraging Hybrid 1T/2H MoS2–Graphene Heterostructures. Chem. Eng. J. 2025, 520, 165803. https://doi.org/10.1016/j.cej.2025.165803
 
-Kim, B.*; Lee, M.; Jung, H.; Ryu, M.; Choi, S.; Lee, J., Choi, J.-H.; Yim, K.†; Jung, K.-N.†; Lee, J.†; Advanced Fluorinated Gel Polymer Electrolyte Enabling Shunt Current-Free Operation in Quasi-Solid-State Bipolar Stack Batteries. Chem. Eng. J. 2025, 527, 171961. https://doi.org/10.1016/j.cej.2025.171961
+Kim, B.\*; Lee, M.; Jung, H.; Ryu, M.; Choi, S.; Lee, J., Choi, J.-H.; Yim, K.†; Jung, K.-N.†; Lee, J.†; Advanced Fluorinated Gel Polymer Electrolyte Enabling Shunt Current-Free Operation in Quasi-Solid-State Bipolar Stack Batteries. Chem. Eng. J. 2025, 527, 171961. https://doi.org/10.1016/j.cej.2025.171961
 
-Nguyen, V. P.*; Jung, W.; Lim, S.; Yim, K.; Kim, D.; Lee, S.-M.†; Heterostructured Sn:SnO2 Nanodots for High-Performance Li–S Batteries with Kinetics-Enhanced Cathode and Dendrite-Free Anode. Adv. Funct. Mater. 2025, 2507991. https://doi.org/10.1002/adfm.202507991
+Nguyen, V. P.\*; Jung, W.; Lim, S.; Yim, K.; Kim, D.; Lee, S.-M.†; Heterostructured Sn:SnO2 Nanodots for High-Performance Li–S Batteries with Kinetics-Enhanced Cathode and Dendrite-Free Anode. Adv. Funct. Mater. 2025, 2507991. https://doi.org/10.1002/adfm.202507991
 
-Dung, D. T.*; Lam, D. V.*; Jung, W.; Yim, K.; Lee, S.-M.†; Maya Blue-Inspired Hybrid Coating for Robust and Superhydrophilic Solar Evaporators Using Commercial Black Acrylic Paint. Adv. Funct. Mater. 2025, e18312. https://doi.org/10.1002/adfm.202518312
+Dung, D. T._; Lam, D. V._; Jung, W.; Yim, K.; Lee, S.-M.†; Maya Blue-Inspired Hybrid Coating for Robust and Superhydrophilic Solar Evaporators Using Commercial Black Acrylic Paint. Adv. Funct. Mater. 2025, e18312. https://doi.org/10.1002/adfm.202518312
 
-Nguyen, V. P.*; Park, M.; Byeon, Y.-W.; Lim, S.; Yim, K.; Oh, M.; Hyun, S.; Jeon , E.†; Lee, S.-M.†; Ultrathin Yet Effective 90-nm ZnF2 Layer for Stabilizing Zinc-Metal Anodes. ACS Energy Lett. 2025, 10, 11, 5503-5512. https://pubs.acs.org/doi/10.1021/acsenergylett.5c02565
+Nguyen, V. P.\*; Park, M.; Byeon, Y.-W.; Lim, S.; Yim, K.; Oh, M.; Hyun, S.; Jeon , E.†; Lee, S.-M.†; Ultrathin Yet Effective 90-nm ZnF2 Layer for Stabilizing Zinc-Metal Anodes. ACS Energy Lett. 2025, 10, 11, 5503-5512. https://pubs.acs.org/doi/10.1021/acsenergylett.5c02565
 
 <a href="https://sites.google.com/view/craem-kier/%ED%99%88/publications">게재논문 전체 목록 바로가기</a>
 
