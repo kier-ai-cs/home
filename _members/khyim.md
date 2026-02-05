@@ -62,6 +62,7 @@ description: 책임연구원 | 원자단위 소재전산모사
 ---
 
 ### Publications ('25)
+
 <a href="https://sites.google.com/view/craem-kier/%ED%99%88/publications" target="_blank">게재 논문 전체 목록 바로가기</a>
 
 Jung, W.\*; Lim, S.; Youn, Y; Lee, J; Amare, A. M.; Ali, S. S. F.; Jeong, I.; Shin, D.; Park, J. H.; Kim, K; Yim, K.†; A Novel Strategy for Discovering Inorganic Solar-Cell Absorbers: Leveraging Octahedral Features in ABX3 Structures. J. Mater. Chem. A 2025, 13, 9680-9693. https://doi.org/10.1039/D4TA07938H (Cover)
