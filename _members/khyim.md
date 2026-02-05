@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 임강훈
-name: Kanghoon Yim 
+name: Kanghoon Yim
 description: 책임연구원 | 원자단위 소재전산모사
 ---
 
@@ -27,14 +27,14 @@ description: 책임연구원 | 원자단위 소재전산모사
 
 **범밀도함수(DFT) 계산 기반 소재 매커니즘 규명**
 
-- 연구 개요 
+- 연구 개요
 
 ---
 
 ### 참여 과제 이력 (2025)
 
 - 과제 1
-- 과제 2 
+- 과제 2
 
 ---
 
