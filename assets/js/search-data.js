@@ -21,6 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/home/books/the_godfather/";
+            },},{id: "members-임강훈",
+          title: '임강훈',
+          description: "책임연구원 | 원자단위 소재전산모사",
+          section: "Members",handler: () => {
+              window.location.href = "/home/members/khyim/";
             },},{id: "members-김상우",
           title: '김상우',
           description: "선임연구원 | 전산유체역학",
