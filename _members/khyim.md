@@ -17,8 +17,7 @@ description: 책임연구원 | 원자단위 소재전산모사
       <i class="fas fa-map-marker-alt"></i> Gajeong-ro 152, Yuseong-gu, Daejeon 34129<br> -->
       <i class="fas fa-envelope"></i> khyim@kier.re.kr<br>
       <i class="fas fa-phone"></i> 042-860-3081<br>
-      <i class="fas fa-home"></i><a href="https://sites.google.com/view/craem-kier/"> Homepage</a>
-      
+      <i class="fas fa-home"></i><a href="https://sites.google.com/view/craem-kier/" target="_blank"> Homepage</a>
     </p>
   </div>
 </div>
@@ -80,7 +79,7 @@ Dung, D. T._; Lam, D. V._; Jung, W.; Yim, K.; Lee, S.-M.†; Maya Blue-Inspired 
 
 Nguyen, V. P.\*; Park, M.; Byeon, Y.-W.; Lim, S.; Yim, K.; Oh, M.; Hyun, S.; Jeon , E.†; Lee, S.-M.†; Ultrathin Yet Effective 90-nm ZnF2 Layer for Stabilizing Zinc-Metal Anodes. ACS Energy Lett. 2025, 10, 11, 5503-5512. https://pubs.acs.org/doi/10.1021/acsenergylett.5c02565
 
-<a href="https://sites.google.com/view/craem-kier/%ED%99%88/publications">게재 논문 전체 목록 바로가기</a>
+<a href="https://sites.google.com/view/craem-kier/%ED%99%88/publications" target="_blank">게재 논문 전체 목록 바로가기</a>
 
 ---
 
