@@ -21,6 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/home/books/the_godfather/";
+            },},{id: "members-이윤재",
+          title: '이윤재',
+          description: "선임연구원 | 공정시스템공학, 경제·환경성평가",
+          section: "Members",handler: () => {
+              window.location.href = "/home/members/yoonjae02/";
             },},{id: "members-임강훈",
           title: '임강훈',
           description: "책임연구원 | 원자단위 소재전산모사",
