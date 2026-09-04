@@ -65,6 +65,14 @@
   email: jhpark222@kier.re.kr
   external_url: https://sites.google.com/view/proses-group
 
+- id: yoonjae02
+  name: 이윤재
+  name_en: Yoonjae Lee
+  position: 선임연구원
+  team: process
+  email: yoonjae02@kier.re.kr
+  external_url:
+
 # AI·데이터 과학
 - id: thekan
   name: 김덕환
