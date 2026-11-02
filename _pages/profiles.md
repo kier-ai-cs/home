@@ -2,7 +2,7 @@
 layout: page
 permalink: /members/
 title: Members
-description: 에너지AI·계산과학실 구성원
+description: 에너지플랫폼연구실 구성원
 nav: true
 nav_order: 2
 ---
