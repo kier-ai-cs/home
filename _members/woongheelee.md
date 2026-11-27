@@ -53,6 +53,16 @@ description: 선임연구원 | AI·데이터 과학
 
 ---
 
+### Conference
+
+<strong><u>Lee, Woonghee,</u></strong> Jaeyoung Lee, and Younghoon Kim. "Temporal Structural Entropy for Social Event Detection: When, Why, and at What Scale Temporal Information Helps." In _Proceedings of the Twentieth ACM International Conference on Web Search and Data Mining (WSDM '27)_, Findings track. ACM, 2027. (accepted; combined acceptance rate 28.4%: main 15.8%, Findings 12.6%) <https://doi.org/10.1145/3862322.3863747>
+
+<strong><u>Lee, Woonghee,</u></strong> and Younghoon Kim. "Interactive sleep stage labelling tool for diagnosing sleep disorder using deep learning." In _2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, pp. 183-186. IEEE, 2018.
+
+Kim, Younghoon, <strong><u>Woonghee Lee,</u></strong> and Keonwoo Kim. "ActiveMotif: Interactive motif discovery with human feedback." In _2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, pp. 2736-2739. IEEE, 2017.
+
+---
+
 ### Publications
 
 <strong><u>Lee, Woonghee,</u></strong> Mingeon Ju, Yura Sim, Young Kul Jung, Tae Hyung Kim, and Younghoon Kim. "Adversarial Attacks on Medical Segmentation Model via Transformation of Feature Statistics." _Applied Sciences_ 14, no. 6 (2024): 2576.
@@ -76,14 +86,6 @@ description: 선임연구원 | AI·데이터 과학
 김건우, <strong><u>이웅희,</u></strong> and 김영훈. "시간 및 비용 제한이 주어진 유지보수 출장경로 탐색." _데이타베이스연구_ 33, no. 2 (2017).
 
 <strong><u>이웅희,</u></strong> and 김영훈. "맵리듀스 기반 상향식 최대 밀도 부분그래프 탐색 알고리즘." _정보과학회논문지_ 44, no. 1 (2017): 78-83.
-
----
-
-### Conference
-
-<strong><u>Lee, Woonghee,</u></strong> and Younghoon Kim. "Interactive sleep stage labelling tool for diagnosing sleep disorder using deep learning." In _2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, pp. 183-186. IEEE, 2018.
-
-Kim, Younghoon, <strong><u>Woonghee Lee,</u></strong> and Keonwoo Kim. "ActiveMotif: Interactive motif discovery with human feedback." In _2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, pp. 2736-2739. IEEE, 2017.
 
 ---
 
