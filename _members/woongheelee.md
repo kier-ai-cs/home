@@ -16,7 +16,8 @@ description: 선임연구원 | AI·데이터 과학
       <!-- <i class="fas fa-building"></i> 한국에너지기술연구원 에너지AI·계산과학실<br>
       <i class="fas fa-map-marker-alt"></i> Gajeong-ro 152, Yuseong-gu, Daejeon 34129<br> -->
       <i class="fas fa-envelope"></i> woongheelee@kier.re.kr<br>
-      <i class="fas fa-phone"></i> 042-860-3121
+      <i class="fas fa-phone"></i> 042-860-3121<br>
+      <i class="fas fa-home"></i><a href="https://dais-research.github.io/" target="_blank"> dais-research.github.io</a>
     </p>
   </div>
 </div>
@@ -55,7 +56,7 @@ description: 선임연구원 | AI·데이터 과학
 
 ### Conference
 
-<strong><u>Lee, Woonghee,</u></strong> Jaeyoung Lee, and Younghoon Kim. "Temporal Structural Entropy for Social Event Detection: When, Why, and at What Scale Temporal Information Helps." In _Proceedings of the Twentieth ACM International Conference on Web Search and Data Mining (WSDM '27)_, Findings track. ACM, 2027. (accepted; combined acceptance rate 28.4%: main 15.8%, Findings 12.6%) <https://doi.org/10.1145/3862322.3863747>
+<strong><u>Lee, Woonghee,</u></strong> Jaeyoung Lee, and Younghoon Kim. "Temporal Structural Entropy for Social Event Detection: When, Why, and at What Scale Temporal Information Helps." In _Proceedings of the Twentieth ACM International Conference on Web Search and Data Mining (WSDM '27)_, Findings track. ACM, 2027. (accepted; combined acceptance rate 28.4%: main 15.8%, Findings 12.6%)
 
 <strong><u>Lee, Woonghee,</u></strong> and Younghoon Kim. "Interactive sleep stage labelling tool for diagnosing sleep disorder using deep learning." In _2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, pp. 183-186. IEEE, 2018.
 
